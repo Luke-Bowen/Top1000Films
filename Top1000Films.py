@@ -2,7 +2,7 @@
 # File: Top1000Films
 # Author: Luke Bowen 
 # Date made: 10/03/2020
-# Description: Find Top 1000 moives on imdb
+# Description: Find Top 1000 Films on imdb
 #
 ###################################
 import requests
